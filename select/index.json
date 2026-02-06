@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Count on Me",
+  "base_artist": "Bruno Mars",
+  "createdAt": "2026-02-06T06:14:44.427462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "The Statlers",
+      "has_synced": false,
+      "path": "select/01_Count_On_Me_The_Statlers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Count on Me",
+      "artist": "Nick Kamen",
+      "has_synced": false,
+      "path": "select/02_Count_on_Me_Nick_Kamen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Chase & Status feat. Moko",
+      "has_synced": true,
+      "path": "select/03_Count_On_Me_Chase_&_Status_feat._Moko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Count On Me (Feat. Moko)",
+      "artist": "Chase & Status",
+      "has_synced": true,
+      "path": "select/04_Count_On_Me_(Feat._Moko)_Chase_&_Status.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Count On Me - Andy C Remix",
+      "artist": "Chase & Status feat. Moko",
+      "has_synced": true,
+      "path": "select/05_Count_On_Me_-_Andy_C_Remix_Chase_&_Status_feat._Moko.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Fra Lippo Lippi",
+      "has_synced": false,
+      "path": "select/06_Count_On_Me_Fra_Lippo_Lippi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Can Count On Me",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/07_You_Can_Count_On_Me_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "You Can Count On Me",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/08_You_Can_Count_On_Me_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Anggun",
+      "has_synced": true,
+      "path": "select/09_Count_On_Me_Anggun.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Fools Garden",
+      "has_synced": true,
+      "path": "select/10_Count_On_Me_Fools_Garden.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Can Count On Me",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/11_You_Can_Count_On_Me_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "CeCe Winans & Whitney Houston",
+      "has_synced": true,
+      "path": "select/12_Count_On_Me_CeCe_Winans_&_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Whitney Houston & Cece Winans",
+      "has_synced": true,
+      "path": "select/13_Count_On_Me_Whitney_Houston_&_Cece_Winans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Count on Me",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/14_Don't_Count_on_Me_NOFX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Count On Me",
+      "artist": "Bruno Mars",
+      "has_synced": true,
+      "path": "select/15_Count_On_Me_Bruno_Mars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Count on Me",
+      "artist": "Jefferson Starship",
+      "has_synced": true,
+      "path": "select/16_Count_on_Me_Jefferson_Starship.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Count on Me",
+      "artist": "Jefferson Starship",
+      "has_synced": true,
+      "path": "select/17_Count_on_Me_Jefferson_Starship.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Count On Me (Whitney Houston & Cece Winans)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/18_Count_On_Me_(Whitney_Houston_&_Cece_Winans)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Count on Me",
+      "artist": "Bruno Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Count_on_Me_Bruno_Mars.txt"
+    }
+  ]
+}
